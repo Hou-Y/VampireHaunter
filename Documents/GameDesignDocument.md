@@ -1,9 +1,14 @@
 # Vampire Haunter #
 You DIED. 
+
 In retrospect going to this “Dr.Acula’s Miraculous Cure Centre” was not your brightest idea but you had a terminal illness and with only one year left, what could go wrong?
+
 The answer is: a lot. 
+
 Apparently Dr.Acula is a vampire and you just became his last snack. Now you’re dead. Dead as a doorknob. Or well, not exactly. You became a ghost. 
+
 But every cloud has a silver lining: You can haunt your killer now! 
+
 You’re NOT a vampire hunter, you are a vampire HAUNTER.
 
 ## Overview and vision statement ##
@@ -23,8 +28,9 @@ Camera:
 - Centered around the player, can zoom in or zoom out
 
 Dr.Acula:
-- Has visual cone, going inside such cone the player will be seen by Dr.Acula
+- Has visual cone, going inside such cone the player (if possessing an object) will be seen by Dr.Acula
 - Scripted behaviour, if enough stress/fear is acquired routine will change
+    1) Pathfinding for movement
 - 
 
 ## Characters (if applicable) ##
