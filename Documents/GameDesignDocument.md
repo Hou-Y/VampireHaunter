@@ -46,14 +46,15 @@ Dr. Acula has 3 different clothing:
 - Doctor [just for intro? or for when he has a new victim?]
 - With a pink frilly apron 
 
-Mentor Ghost: tutorial guy(ghost), died before as Dr. Acula's victim [a child? or someone who stayed behing to show the ropes to the newbors ghosts?]
+Mentor Ghost: tutorial guy(ghost), died before as Dr. Acula's victim [a child? or someone who stayed behing to show the ropes to the newborns ghosts?]
 
 ## Story (if applicable) ##
 [NOT YET CONFIRMED/APPROVED]
 Intro: The Not-Yet-Ghost buzz the door to Dr. Acula's clinic, the doctor opens and introduces himself, 
 once they enter the doctor
 - either brings the Not-Yet-Ghost accomodate in the waiting room and after a short time he calls the protagonist and just when the Not-Yet-Ghost enters in the operation room (opens the door and closes behind, no need to show the operation room)
-- or he makes the Not-Yet-Ghost accomodate on a seat in his clinic to start the "operation" and as soon as Dr.Acula goenear the protagonist
+- or he makes the Not-Yet-Ghost accomodate on a seat in his clinic to start the "operation" and as soon as Dr.Acula go near the protagonist
+
 either way (depends on the clinic's layout) a black screen appears with a "You DIED" on it.
 
 
