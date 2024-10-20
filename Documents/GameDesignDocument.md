@@ -16,6 +16,7 @@ Vampire Haunter is a 2D short story driven RPG game in which you can haunt a vam
 
 Legenda:
 [To be decided/accepted]
+
 rough idea?
 
 ## Gameplay ##
@@ -74,6 +75,7 @@ Rooms:
 - Kitchen: has fridge with Blood
 - Garden with cementery
 - Living room
+
 Unlockable rooms:
 - Cellar: unlocked when Dr.Acula stress level is high enough to start stress eating, if the bags of blood in the fridge are ruined/spoiled/emptied by the player will go in the cellar in which has more supplies
 - Studio: contains many [personal notes/diary pages/embarassing secrets], unlocked after puzzle
@@ -96,8 +98,8 @@ Puzzles:
 Pipeline Unity 2D Universal
 
 ## Team ##
-1. Yiming Hou (Game Designer)
-2. Miriam Bissoli (Art) 
+1. Yiming Hou (Game Designer/Developer)
+2. Miriam Bissoli (Artist) 
 3. Matteo Manzoni (Developer)
 4. Andre Migliorini (Developer)
 5. Gianmaria Forte (Developer)
