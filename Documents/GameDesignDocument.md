@@ -1,0 +1,80 @@
+# Vampire Haunter #
+
+...
+
+## Overview and vision statement ##
+
+...
+
+## Gameplay ##
+Player can:
+- Move (WASD keys)
+- Interact with objects by pushing E key which can possess such objects (moving objects and cannot cross walls, it will make the player visible and if Dr.Acula touches the player the possession will stop and Dr.Acula will bring the objects back to their original place)
+- Scream by pushing F key which can break glasses or objects made of glass and can attract Dr.Acula to the player's location (eventually scaring Dr.Acula in specific cases)
+- Cross walls if the rooms in both sides are already discovered
+- Move objects in specific areas to create scary artifacts
+
+Camera: 
+- Top down 2d
+- Centered around the player, can zoom in or zoom out
+
+Dr.Acula has a fear bar 
+
+## Characters (if applicable) ##
+Ghost
+- 
+
+Dr. Acula
+-
+
+## Story (if applicable) ##
+
+...
+
+## World (if applicable) ##
+
+...
+
+## Media list ## 
+
+...
+
+## Technical specification (if applicable) ## 
+Pipeline Unity 2D Universal
+
+## Team ##
+1. Yiming Hou (Game Designer)
+2. Miriam Bissoli (Art) 
+3. Matteo Manzoni (Developer)
+4. Andre Migliorini (Developer)
+5. Gianmaria Forte (Developer)
+
+## Deadlines ##
+
+### Team meeting (October 20) ###
+Meetup with the whole team to
+1) Brainstorm
+2) Decide on:
+    - General mood of the game
+    - General game mechanics
+    - General map design, art and assets
+
+### Week 1 (October 27 deadline) ###
+- 
+- First prototype of the main game mechanic (..)
+- First prototype of the second game mechanic (..)
+- we agreed upon ...
+- All the deadlines 
+
+### Week 2 (November 3 deadline) ### 
+- Second iteration of prototype of the main game mechanic 
+- First prototype of the second game mechanic 
+
+### Week 3 ( ... ) ###
+
+### Week 4 ( ... ) ###
+
+### Week 5 ( ... ) ###
+
+### Week 6 ( ... ) ###
+
