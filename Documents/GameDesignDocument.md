@@ -62,7 +62,7 @@ Pipeline Unity 2D Universal
 
 ## Deadlines ##
 
-### Team meeting (October 20) ###
+### Week 1 Team meeting (October 20) ###
 Meetup with the whole team to
 1) Brainstorm
 2) Decide on:
@@ -72,22 +72,24 @@ Meetup with the whole team to
     - Type of puzzles to add
     - Unlocking order for rooms/powers
 
-### Week 1 (October 27 deadline) ###
-- Add feedback form ()
-- First prototype of movement of Ghost (..)
-- First prototype of visual cone of Dracula (..)
+### Week 2 (October 27 deadline?) ###
+- First prototype of UI + starting dialogues + pop up (Yiming Hou)
+- First prototype of movement of Ghost + Camera (Andrea Migliorini)
+- First prototype of movement + scripting of Dr.Acula (Gianmaria Forte)
+- First prototype of visual cone of Dracula (Matteo Manzoni)
 - Main character sketch
-- All the deadlines 
+- Everyone create a new branch on repository and create new scene on Unity (work on different scenes)
 
-### Week 2 (November 3 deadline) ### 
+### Week 3 (November 3 deadline) ### 
 - Second iteration of prototype of the main game mechanic 
 - First prototype of the second game mechanic 
 
-### Week 3 ( ... ) ###
+### Week 4 (November 10 deadline) ###
 
-### Week 4 ( ... ) ###
+### Week 5 (November 17 deadline ) ###
 
-### Week 5 ( ... ) ###
+### Week 6 (November 24 deadline) ###
 
-### Week 6 ( ... ) ###
+### Week 7 (December 1 deadline) ###
 
+### Week 8 (December 8 Final prototype) ###
