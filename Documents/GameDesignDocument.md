@@ -35,10 +35,7 @@ Dr.Acula:
 
 ## Characters (if applicable) ##
 Ghost
-- 
-
 Dr. Acula
--
 
 ## Story (if applicable) ##
 Dr. Acula's diary pages
@@ -76,10 +73,10 @@ Meetup with the whole team to
     - Unlocking order for rooms/powers
 
 ### Week 1 (October 27 deadline) ###
-- 
-- First prototype of the main game mechanic (..)
-- First prototype of the second game mechanic (..)
-- we agreed upon ...
+- Add feedback form ()
+- First prototype of movement of Ghost (..)
+- First prototype of visual cone of Dracula (..)
+- Main character sketch
 - All the deadlines 
 
 ### Week 2 (November 3 deadline) ### 
